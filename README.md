@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gourav%20Sharma&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=18&descColor=A891FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:302b4d,100:24243e&height=220&section=header&text=Gourav%20Sharma&fontSize=50&fontColor=89b4fa&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=17&descColor=cba6f7" width="100%"/>
 
 <a href="https://gouravdev-zeta.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Building+real-world+tech+with+social+impact+%F0%9F%8C%8D;Open+Source+Contributor+%40+OpenPrinting+%26+Gemini-CLI;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+System+Design;GSoC+2026+Aspirant+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Building+real-world+tech+with+social+impact+%F0%9F%8C%8D;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+System+Design;GSoC+2026+Aspirant+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://gouravdev-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gouravdev--zeta.vercel.app-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0f0c29" /></a>
-<a href="mailto:gourav6002@gmail.com"><img src="https://img.shields.io/badge/Email-gourav6002%40gmail.com-A891FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" /></a>
-<img src="https://komarev.com/ghpvc/?username=neonninja-9&style=for-the-badge&color=00F5FF&labelColor=0f0c29" alt="profile views"/>
+<a href="https://gouravdev-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-gouravdev--zeta.vercel.app-89B4FA?style=for-the-badge&logo=vercel&logoColor=1e1e2e&labelColor=313244" /></a>
+<a href="mailto:gourav6002@gmail.com"><img src="https://img.shields.io/badge/Email-gourav6002%40gmail.com-CBA6F7?style=for-the-badge&logo=gmail&logoColor=1e1e2e&labelColor=313244" /></a>
+<img src="https://komarev.com/ghpvc/?username=neonninja-9&style=for-the-badge&color=89B4FA&labelColor=313244" alt="profile views"/>
 
 <!-- Add your LinkedIn / X (Twitter) badges here once you share the handles, e.g.: -->
 <!-- <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -26,17 +26,16 @@ name: Gourav Sharma
 role: Full Stack Developer & CS Undergrad (AI & ML)
 university: Amity University Madhya Pradesh, Gwalior — CGPA 8.98/10
 graduation: June 2028 (Expected)
-focus: Scalable web apps · System Design · CI/CD · Open Source
+focus: Scalable web apps · System Design · CI/CD
 mission: "Building real-world technology solutions for rural & underserved communities 🌾"
 currently:
-  - 🔭 Preparing a Google Summer of Code (GSoC) 2026 proposal on scalable open-source tooling
+  - 🔭 Preparing a Google Summer of Code (GSoC) 2026 proposal
   - 🌱 Deepening System Design & Machine Learning
-  - 🤝 Contributing to OpenPrinting & google-gemini/gemini-cli
   - 🎓 Amity University x Unnat Bharat Abhiyan (UBA) social-impact tech initiatives
 fun_fact: "I go by neonninja-9 ⚡"
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -60,23 +59,23 @@ fun_fact: "I go by neonninja-9 ⚡"
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neonninja-9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5FF&icon_color=A891FF&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=neonninja-9&theme=tokyonight&hide_border=true&background=0f0c29&ring=00F5FF&fire=A891FF&currStreakLabel=00F5FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=neonninja-9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89B4FA&icon_color=CBA6F7&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=neonninja-9&theme=tokyonight&hide_border=true&background=1e1e2e&ring=89B4FA&fire=CBA6F7&currStreakLabel=89B4FA" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neonninja-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00F5FF&text_color=c9d1d9&langs_count=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neonninja-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89B4FA&text_color=c9d1d9&langs_count=10" width="49%" />
 <img src="https://github-profile-trophy.vercel.app/?username=neonninja-9&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neonninja-9&theme=tokyo-night&bg_color=0f0c29&color=00F5FF&line=A891FF&point=ffffff&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neonninja-9&theme=tokyo-night&bg_color=1e1e2e&color=89B4FA&line=CBA6F7&point=ffffff&hide_border=true&area=true" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -86,7 +85,7 @@ fun_fact: "I go by neonninja-9 ⚡"
 
 > ⚠️ The snake needs a one-time setup — a GitHub Action running in your **`neonninja-9/neonninja-9`** profile repo. See `snake.yml` below.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -135,14 +134,14 @@ Smart campus gate-pass system for Amity University, cutting manual processing ti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gouravdev--zeta.vercel.app-00F5FF?style=flat-square&labelColor=0f0c29)](https://gouravdev-zeta.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-gourav6002%40gmail.com-A891FF?style=flat-square&labelColor=0f0c29)](mailto:gourav6002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gouravdev--zeta.vercel.app-89B4FA?style=flat-square&logo=vercel&logoColor=1e1e2e&labelColor=313244)](https://gouravdev-zeta.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-gourav6002%40gmail.com-CBA6F7?style=flat-square&logo=gmail&logoColor=1e1e2e&labelColor=313244)](mailto:gourav6002@gmail.com)
 
 <!-- LinkedIn / X placeholders — swap in your handle when ready:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
@@ -151,4 +150,4 @@ Smart campus gate-pass system for Amity University, cutting manual processing ti
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontColor=00F5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:302b4d,100:24243e&height=120&section=footer&fontColor=89B4FA" width="100%"/>
