@@ -83,8 +83,6 @@ fun_fact: "I go by neonninja-9 ⚡"
 <img src="https://raw.githubusercontent.com/neonninja-9/neonninja-9/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 </div>
 
-> ⚠️ The snake needs a one-time setup — a GitHub Action running in your **`neonninja-9/neonninja-9`** profile repo. See `snake.yml` below.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
