@@ -1,0 +1,10 @@
+<svg width="1200" height="3" viewBox="0 0 1200 3" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="divider" x1="0" y1="1.5" x2="1200" y2="1.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e1e2e"/>
+      <stop offset="0.5" stop-color="#89b4fa"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="3" rx="1.5" fill="url(#divider)"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gourav Sharma profile header</title>
+  <desc id="desc">Gradient profile banner for Gourav Sharma, full stack developer and B.Tech CSE AI and ML student.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e1e2e"/>
+      <stop offset="0.5" stop-color="#302b4d"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="150" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#89b4fa" stop-opacity="0.24"/>
+      <stop offset="0.5" stop-color="#cba6f7" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#89b4fa" stop-opacity="0.24"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 78) rotate(90) scale(170 520)">
+      <stop offset="0" stop-color="#89b4fa" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#89b4fa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect width="1200" height="220" fill="url(#glow)"/>
+
+  <path d="M0 164L50 154.8C100 145.7 200 127.3 300 132.7C400 138 500 167 600 174.3C700 181.7 800 167.3 900 154.8C1000 142.3 1100 131.7 1150 126.3L1200 121V220H1150C1100 220 1000 220 900 220C800 220 700 220 600 220C500 220 400 220 300 220C200 220 100 220 50 220H0V164Z" fill="url(#wave)"/>
+  <path d="M0 184L60 178.7C120 173.3 240 162.7 360 167.2C480 171.7 600 191.3 720 194.8C840 198.3 960 185.7 1080 176.8L1200 168V220H0V184Z" fill="#1e1e2e" fill-opacity="0.48"/>
+
+  <text x="600" y="86" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="50" font-weight="800" fill="#89b4fa" letter-spacing="1">
+    Gourav Sharma
+  </text>
+  <text x="600" y="128" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600" fill="#cba6f7" letter-spacing="0.3">
+    Full Stack Developer | B.Tech CSE (AI &amp; ML)
+  </text>
+
+  <circle cx="312" cy="72" r="4" fill="#89b4fa" fill-opacity="0.55"/>
+  <circle cx="884" cy="94" r="5" fill="#cba6f7" fill-opacity="0.45"/>
+  <circle cx="936" cy="52" r="3" fill="#89b4fa" fill-opacity="0.45"/>
+  <circle cx="262" cy="126" r="3" fill="#cba6f7" fill-opacity="0.4"/>
+</svg>

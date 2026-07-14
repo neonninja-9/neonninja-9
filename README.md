@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:302b4d,100:24243e&height=220&section=header&text=Gourav%20Sharma&fontSize=50&fontColor=89b4fa&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=17&descColor=cba6f7" width="100%"/>
+<img src="./assets/profile-header.svg" width="100%" alt="Gourav Sharma profile header"/>
 
 <a href="https://gouravdev-zeta.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Building+real-world+tech+with+social+impact+%F0%9F%8C%8D;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+System+Design;GSoC+2026+Aspirant+%F0%9F%9A%80" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
 ## 👨‍💻 Summary
 
@@ -31,7 +31,7 @@ My work is especially motivated by practical social impact—from rural-access p
 Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 **CGPA:** 8.98 / 10
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
 ## 🛠️ Technical Skills
 
@@ -95,7 +95,7 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 
 **Backend expertise:** Node.js, Express.js, FastAPI, and .NET for building RESTful services; API design, authentication and authorization, JWT-based security, database modeling, ORM-driven data access, caching with Redis, and asynchronous service patterns. Familiar with GraphQL, message queues, API documentation using OpenAPI/Swagger, containerized deployments, and CI/CD workflows.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
 ## 📊 GitHub Analytics
 
@@ -111,7 +111,7 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
 ## 🐍 Contribution Snake
 
@@ -119,7 +119,7 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 <img src="https://raw.githubusercontent.com/neonninja-9/neonninja-9/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
 ## 💼 Experience & Selected Projects
 
@@ -170,7 +170,7 @@ Built a smart campus gate-pass system for Amity University that reduced manual p
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
+<img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
 ## 🤝 Let's Connect
 
@@ -186,4 +186,4 @@ Built a smart campus gate-pass system for Amity University that reduced manual p
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:302b4d,100:24243e&height=120&section=footer&fontColor=89B4FA" width="100%"/>
+<img src="./assets/profile-footer.svg" width="100%" alt="Profile footer wave"/>

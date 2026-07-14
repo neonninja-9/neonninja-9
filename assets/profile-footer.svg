@@ -1,0 +1,20 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Profile footer wave</title>
+  <desc id="desc">Local gradient footer wave for the GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e1e2e"/>
+      <stop offset="0.5" stop-color="#302b4d"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="footerWave" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#89b4fa" stop-opacity="0.22"/>
+      <stop offset="0.5" stop-color="#cba6f7" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#89b4fa" stop-opacity="0.22"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#footerBg)"/>
+  <path d="M0 35L50 40.8C100 46.7 200 58.3 300 57.5C400 56.7 500 43.3 600 42.5C700 41.7 800 53.3 900 59.2C1000 65 1100 65 1150 65H1200V120H0V35Z" fill="url(#footerWave)"/>
+  <path d="M0 70L75 66.2C150 62.3 300 54.7 450 59.2C600 63.7 750 80.3 900 84.2C1050 88 1125 79 1200 70V120H0V70Z" fill="#1e1e2e" fill-opacity="0.46"/>
+</svg>

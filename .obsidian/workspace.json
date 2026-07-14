@@ -11,10 +11,14 @@
             "id": "2704407e72050356",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -178,6 +182,12 @@
   },
   "active": "2704407e72050356",
   "lastOpenFiles": [
+    "scripts/__pycache__/resize_icons.cpython-314.pyc",
+    "scripts/__pycache__",
+    "assets/profile-footer.svg",
+    "assets/section-divider.svg",
+    "assets/profile-header.svg",
+    "assets",
     "scripts/resize_icons.py",
     "scripts",
     "icons/resized/Vite-Dark.svg",
@@ -187,9 +197,6 @@
     "icons/resized/SQLite.svg",
     "icons/resized/React-Dark.svg",
     "icons/resized/PostgreSQL-Dark.svg",
-    "icons/resized/OpenCV-Dark.svg",
-    "icons/resized/NodeJS-Dark.svg",
-    "icons/resized/MySQL-Dark.svg",
     "icons/resized",
     "icons",
     "README.md"
