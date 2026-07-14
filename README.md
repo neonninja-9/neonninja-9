@@ -61,10 +61,7 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 **Backend & APIs**
 <br/>
 <p>
-  <img src="./icons/resized/NodeJS-Dark.svg" width="42" height="42" alt="Node.js" title="Node.js"/>
-  <img src="./icons/resized/ExpressJS-Dark.svg" width="42" height="42" alt="Express.js" title="Express.js"/>
-  <img src="./icons/resized/FastAPI.svg" width="42" height="42" alt="FastAPI" title="FastAPI"/>
-  <img src="./icons/resized/Django.svg" width="42" height="42" alt="Django" title="Django"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark&perline=4" alt="Backend frameworks: Node.js, Express, FastAPI, Django" title="Backend frameworks: Node.js, Express, FastAPI, Django"/>
 </p>
 
 **Backend Engineering**
