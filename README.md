@@ -19,45 +19,81 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
-## 👨‍💻 About Me
+## 👨‍💻 Summary
 
-```yaml
-name: Gourav Sharma
-role: Full Stack Developer & CS Undergrad (AI & ML)
-university: Amity University Madhya Pradesh, Gwalior — CGPA 8.98/10
-graduation: June 2028 (Expected)
-focus: Scalable web apps · System Design · CI/CD
-mission: "Building real-world technology solutions for rural & underserved communities 🌾"
-currently:
-  - 🔭 Preparing a Google Summer of Code (GSoC) 2026 proposal
-  - 🌱 Deepening System Design & Machine Learning
-  - 🎓 Amity University x Unnat Bharat Abhiyan (UBA) social-impact tech initiatives
-fun_fact: "I go by neonninja-9 ⚡"
-```
+Full-stack developer and Computer Science undergraduate specializing in AI & Machine Learning, with a growing focus on backend engineering, scalable APIs, and system design. I build reliable web applications that pair thoughtful user experiences with secure, maintainable server-side systems.
+
+My work is especially motivated by practical social impact—from rural-access platforms to campus tools that simplify everyday workflows. I am currently strengthening my knowledge of distributed systems, CI/CD, and machine learning while preparing a Google Summer of Code 2026 proposal.
+
+## 🎓 Education
+
+**B.Tech, Computer Science Engineering (Artificial Intelligence & Machine Learning)**<br/>
+Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
+**CGPA:** 8.98 / 10
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,java,html,css&theme=dark" />
+<p>
+  <img src="./icons/resized/C.svg" width="42" height="42" alt="C" title="C"/>
+  <img src="./icons/resized/CPP.svg" width="42" height="42" alt="C++" title="C++"/>
+  <img src="./icons/resized/JavaScript.svg" width="42" height="42" alt="JavaScript" title="JavaScript"/>
+  <img src="./icons/resized/Java-Dark.svg" width="42" height="42" alt="Java" title="Java"/>
+  <img src="./icons/resized/Kotlin-Dark.svg" width="42" height="42" alt="Kotlin" title="Kotlin"/>
+  <img src="./icons/resized/HTML.svg" width="42" height="42" alt="HTML5" title="HTML5"/>
+  <img src="./icons/resized/CSS.svg" width="42" height="42" alt="CSS3" title="CSS3"/>
+</p>
 
-**Frameworks & Libraries**
+**Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,angular,dotnet&theme=dark" />
+<p>
+  <img src="./icons/resized/React-Dark.svg" width="42" height="42" alt="React" title="React"/>
+  <img src="./icons/resized/Vite-Dark.svg" width="42" height="42" alt="Vite" title="Vite"/>
+  <img src="./icons/resized/TailwindCSS-Dark.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="./icons/resized/Flutter-Dark.svg" width="42" height="42" alt="Flutter" title="Flutter"/>
+</p>
 
-**Databases**
+**Backend & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,oracle&theme=dark" />
+<p>
+  <img src="./icons/resized/NodeJS-Dark.svg" width="42" height="42" alt="Node.js" title="Node.js"/>
+  <img src="./icons/resized/ExpressJS-Dark.svg" width="42" height="42" alt="Express.js" title="Express.js"/>
+  <img src="./icons/resized/FastAPI.svg" width="42" height="42" alt="FastAPI" title="FastAPI"/>
+  <img src="./icons/resized/Django.svg" width="42" height="42" alt="Django" title="Django"/>
+</p>
 
-**Tools & Platforms**
+**Data & Persistence**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,vercel,aws&theme=dark" />
+<p>
+  <img src="./icons/resized/MySQL-Dark.svg" width="42" height="42" alt="MySQL" title="MySQL"/>
+  <img src="./icons/resized/MongoDB.svg" width="42" height="42" alt="MongoDB" title="MongoDB"/>
+  <img src="./icons/resized/PostgreSQL-Dark.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="./icons/resized/SQLite.svg" width="42" height="42" alt="SQLite" title="SQLite"/>
+  <img src="./icons/resized/Firebase-Dark.svg" width="42" height="42" alt="Firebase" title="Firebase"/>
+  <img src="./icons/resized/Supabase-Dark.svg" width="42" height="42" alt="Supabase" title="Supabase"/>
+</p>
+
+**Cloud, DevOps & Collaboration**
+<br/>
+<p>
+  <img src="./icons/resized/Git.svg" width="42" height="42" alt="Git" title="Git"/>
+  <img src="./icons/resized/Docker.svg" width="42" height="42" alt="Docker" title="Docker"/>
+  <img src="./icons/resized/AWS-Dark.svg" width="42" height="42" alt="AWS" title="AWS"/>
+  <img src="./icons/resized/Vercel-Dark.svg" width="42" height="42" alt="Vercel" title="Vercel"/>
+  <img src="./icons/resized/Heroku.svg" width="42" height="42" alt="Heroku" title="Heroku"/>
+  <img src="./icons/resized/CMake-Dark.svg" width="42" height="42" alt="CMake" title="CMake"/>
+</p>
+
+<!-- Icon workflow: add raw SVGs to ./icons, then run `python scripts/resize_icons.py --icons-dir icons --out-dir icons/resized --size 48` to refresh the README-ready assets. -->
 
 </div>
+
+**Backend expertise:** Node.js, Express.js, FastAPI, and .NET for building RESTful services; API design, authentication and authorization, JWT-based security, database modeling, ORM-driven data access, caching with Redis, and asynchronous service patterns. Familiar with GraphQL, message queues, API documentation using OpenAPI/Swagger, containerized deployments, and CI/CD workflows.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
@@ -85,14 +121,16 @@ fun_fact: "I go by neonninja-9 ⚡"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2e,100:24243e&height=2&section=header&width=100%" width="100%"/>
 
-## 🚀 Featured Projects
+## 💼 Experience & Selected Projects
+
+I apply full-stack and backend development practices across academic, independent, and social-impact projects. The work below emphasizes API-driven architecture, data management, deployment, and measurable outcomes.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🔐 [CyberForge](https://github.com/neonninja-9)
-Interactive cryptography learning platform with **18+ algorithms** (AES, RSA, ECC), containerized and deployed on Vercel.
+Built an interactive cryptography learning platform covering **18+ algorithms** (AES, RSA, and ECC), with a FastAPI-powered backend, containerized workflow, and Vercel deployment.
 
 `React.js` `Vite` `FastAPI` `Python` `Docker` `Supabase`
 
@@ -100,7 +138,7 @@ Interactive cryptography learning platform with **18+ algorithms** (AES, RSA, EC
 <td width="50%" valign="top">
 
 ### 💡 IdeaForge
-Full-stack idea-sharing platform with secure profile & submission management — **40% faster** query response time.
+Developed a full-stack idea-sharing platform with secure profile and submission management, improving query response time by **40%** through more efficient data access.
 
 `Angular` `.NET` `PHP` `Oracle` `MySQL`
 
@@ -110,7 +148,7 @@ Full-stack idea-sharing platform with secure profile & submission management —
 <td width="50%" valign="top">
 
 ### 🌱 CarbonX — Carbon Footprint System
-Dual-dashboard carbon credit marketplace facilitating **₹42 Cr** in transactions, tracking **18,000+ tons CO₂** offset across 890+ projects.
+Created a dual-dashboard carbon-credit marketplace with API-driven workflows, facilitating **₹42 Cr** in transactions and tracking **18,000+ tons of CO₂** offset across 890+ projects.
 
 `React` `Node.js` `REST APIs` `Recharts`
 
@@ -118,7 +156,7 @@ Dual-dashboard carbon credit marketplace facilitating **₹42 Cr** in transactio
 <td width="50%" valign="top">
 
 ### 🎓 amisos — Smart Out Pass System
-Smart campus gate-pass system for Amity University, cutting manual processing time by **60%** for 5,000+ students.
+Built a smart campus gate-pass system for Amity University that reduced manual processing time by **60%** for 5,000+ students.
 
 `Kotlin` `Ruby` `MongoDB`
 
