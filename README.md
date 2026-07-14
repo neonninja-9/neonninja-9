@@ -82,27 +82,6 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
   <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="42" height="42" alt="Prometheus" title="Prometheus"/>
   <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="42" height="42" alt="Grafana" title="Grafana"/>
 </p>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/REST_APIs-89B4FA?style=flat-square&labelColor=313244" alt="REST APIs" title="REST APIs"/>
-  <img src="https://img.shields.io/badge/Authentication-CBA6F7?style=flat-square&labelColor=313244" alt="Authentication" title="Authentication"/>
-  <img src="https://img.shields.io/badge/Authorization-CBA6F7?style=flat-square&labelColor=313244" alt="Authorization" title="Authorization"/>
-  <img src="https://img.shields.io/badge/JWT-F5C2E7?style=flat-square&logo=jsonwebtokens&logoColor=1e1e2e&labelColor=313244" alt="JWT" title="JWT"/>
-  <img src="https://img.shields.io/badge/OAuth-F5C2E7?style=flat-square&labelColor=313244" alt="OAuth" title="OAuth"/>
-  <img src="https://img.shields.io/badge/RBAC-CBA6F7?style=flat-square&labelColor=313244" alt="RBAC" title="RBAC"/>
-  <img src="https://img.shields.io/badge/Database_Design-89DCFE?style=flat-square&labelColor=313244" alt="Database Design" title="Database Design"/>
-  <img src="https://img.shields.io/badge/ORMs-89DCFE?style=flat-square&labelColor=313244" alt="ORMs" title="ORMs"/>
-  <img src="https://img.shields.io/badge/Caching-94E2D5?style=flat-square&labelColor=313244" alt="Caching" title="Caching"/>
-  <img src="https://img.shields.io/badge/Redis-94E2D5?style=flat-square&logo=redis&logoColor=1e1e2e&labelColor=313244" alt="Redis" title="Redis"/>
-  <img src="https://img.shields.io/badge/Message_Queues-FAB387?style=flat-square&labelColor=313244" alt="Message Queues" title="Message Queues"/>
-  <img src="https://img.shields.io/badge/GraphQL-F5C2E7?style=flat-square&logo=graphql&logoColor=1e1e2e&labelColor=313244" alt="GraphQL" title="GraphQL"/>
-  <img src="https://img.shields.io/badge/WebSockets-89B4FA?style=flat-square&logo=socketdotio&logoColor=1e1e2e&labelColor=313244" alt="WebSockets" title="WebSockets"/>
-  <img src="https://img.shields.io/badge/OpenAPI%2FSwagger-A6E3A1?style=flat-square&logo=swagger&logoColor=1e1e2e&labelColor=313244" alt="OpenAPI/Swagger" title="OpenAPI/Swagger"/>
-  <img src="https://img.shields.io/badge/Testing-A6E3A1?style=flat-square&labelColor=313244" alt="Testing" title="Testing"/>
-  <img src="https://img.shields.io/badge/Rate_Limiting-FAB387?style=flat-square&labelColor=313244" alt="Rate Limiting" title="Rate Limiting"/>
-  <img src="https://img.shields.io/badge/Logging-B4BEFE?style=flat-square&labelColor=313244" alt="Logging" title="Logging"/>
-  <img src="https://img.shields.io/badge/Monitoring-B4BEFE?style=flat-square&logo=prometheus&logoColor=1e1e2e&labelColor=313244" alt="Monitoring" title="Monitoring"/>
-</p>
 
 **Data & Persistence**
 <br/>
@@ -132,6 +111,27 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 </div>
 
 **Backend expertise:** Node.js, Express.js, FastAPI, and .NET for building RESTful services; API design, authentication and authorization, JWT/OAuth-based security, RBAC, database modeling, ORM-driven data access, caching with Redis, rate limiting, logging, monitoring, and asynchronous service patterns. Familiar with GraphQL, WebSockets, message queues, API documentation using OpenAPI/Swagger, automated testing, containerized deployments with Docker and Kubernetes, and CI/CD workflows.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-89B4FA?style=flat-square&labelColor=313244" alt="REST APIs" title="REST APIs"/>
+  <img src="https://img.shields.io/badge/Authentication-CBA6F7?style=flat-square&labelColor=313244" alt="Authentication" title="Authentication"/>
+  <img src="https://img.shields.io/badge/Authorization-CBA6F7?style=flat-square&labelColor=313244" alt="Authorization" title="Authorization"/>
+  <img src="https://img.shields.io/badge/JWT-F5C2E7?style=flat-square&logo=jsonwebtokens&logoColor=1e1e2e&labelColor=313244" alt="JWT" title="JWT"/>
+  <img src="https://img.shields.io/badge/OAuth-F5C2E7?style=flat-square&labelColor=313244" alt="OAuth" title="OAuth"/>
+  <img src="https://img.shields.io/badge/RBAC-CBA6F7?style=flat-square&labelColor=313244" alt="RBAC" title="RBAC"/>
+  <img src="https://img.shields.io/badge/Database_Design-89DCFE?style=flat-square&labelColor=313244" alt="Database Design" title="Database Design"/>
+  <img src="https://img.shields.io/badge/ORMs-89DCFE?style=flat-square&labelColor=313244" alt="ORMs" title="ORMs"/>
+  <img src="https://img.shields.io/badge/Caching-94E2D5?style=flat-square&labelColor=313244" alt="Caching" title="Caching"/>
+  <img src="https://img.shields.io/badge/Redis-94E2D5?style=flat-square&logo=redis&logoColor=1e1e2e&labelColor=313244" alt="Redis" title="Redis"/>
+  <img src="https://img.shields.io/badge/Message_Queues-FAB387?style=flat-square&labelColor=313244" alt="Message Queues" title="Message Queues"/>
+  <img src="https://img.shields.io/badge/GraphQL-F5C2E7?style=flat-square&logo=graphql&logoColor=1e1e2e&labelColor=313244" alt="GraphQL" title="GraphQL"/>
+  <img src="https://img.shields.io/badge/WebSockets-89B4FA?style=flat-square&logo=socketdotio&logoColor=1e1e2e&labelColor=313244" alt="WebSockets" title="WebSockets"/>
+  <img src="https://img.shields.io/badge/OpenAPI%2FSwagger-A6E3A1?style=flat-square&logo=swagger&logoColor=1e1e2e&labelColor=313244" alt="OpenAPI/Swagger" title="OpenAPI/Swagger"/>
+  <img src="https://img.shields.io/badge/Testing-A6E3A1?style=flat-square&labelColor=313244" alt="Testing" title="Testing"/>
+  <img src="https://img.shields.io/badge/Rate_Limiting-FAB387?style=flat-square&labelColor=313244" alt="Rate Limiting" title="Rate Limiting"/>
+  <img src="https://img.shields.io/badge/Logging-B4BEFE?style=flat-square&labelColor=313244" alt="Logging" title="Logging"/>
+  <img src="https://img.shields.io/badge/Monitoring-B4BEFE?style=flat-square&logo=prometheus&logoColor=1e1e2e&labelColor=313244" alt="Monitoring" title="Monitoring"/>
+</p>
 
 <img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
