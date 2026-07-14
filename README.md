@@ -3,7 +3,7 @@
 <img src="./assets/profile-header.svg" width="100%" alt="Gourav Sharma profile header"/>
 
 <a href="https://gouravdev-zeta.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Building+real-world+tech+with+social+impact+%F0%9F%8C%8D;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+System+Design;GSoC+2026+Aspirant+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="./assets/intro-banner.svg" width="760" height="100" alt="Building real-world tech with social impact. C++, Python, JavaScript, System Design." />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 
 Full-stack developer and Computer Science undergraduate specializing in AI & Machine Learning, with a growing focus on backend engineering, scalable APIs, and system design. I build reliable web applications that pair thoughtful user experiences with secure, maintainable server-side systems.
 
-My work is especially motivated by practical social impact—from rural-access platforms to campus tools that simplify everyday workflows. I am currently strengthening my knowledge of distributed systems, CI/CD, and machine learning while preparing a Google Summer of Code 2026 proposal.
+My work is especially motivated by practical social impact—from rural-access platforms to campus tools that simplify everyday workflows. I am currently strengthening my knowledge of distributed systems, CI/CD, and machine learning while building production-minded full-stack projects.
 
 ## 🎓 Education
 
@@ -67,6 +67,10 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
   <img src="./icons/resized/Django.svg" width="42" height="42" alt="Django" title="Django"/>
 </p>
 
+**Backend Engineering**
+<br/>
+`REST APIs` `Authentication` `Authorization` `JWT` `OAuth` `RBAC` `Database Design` `ORMs` `Caching` `Redis` `Message Queues` `GraphQL` `WebSockets` `OpenAPI/Swagger` `Testing` `Rate Limiting` `Logging` `Monitoring`
+
 **Data & Persistence**
 <br/>
 <p>
@@ -83,6 +87,7 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 <p>
   <img src="./icons/resized/Git.svg" width="42" height="42" alt="Git" title="Git"/>
   <img src="./icons/resized/Docker.svg" width="42" height="42" alt="Docker" title="Docker"/>
+  <img src="./icons/resized/Kubernetes.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes"/>
   <img src="./icons/resized/AWS-Dark.svg" width="42" height="42" alt="AWS" title="AWS"/>
   <img src="./icons/resized/Vercel-Dark.svg" width="42" height="42" alt="Vercel" title="Vercel"/>
   <img src="./icons/resized/Heroku.svg" width="42" height="42" alt="Heroku" title="Heroku"/>
@@ -93,7 +98,7 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 
 </div>
 
-**Backend expertise:** Node.js, Express.js, FastAPI, and .NET for building RESTful services; API design, authentication and authorization, JWT-based security, database modeling, ORM-driven data access, caching with Redis, and asynchronous service patterns. Familiar with GraphQL, message queues, API documentation using OpenAPI/Swagger, containerized deployments, and CI/CD workflows.
+**Backend expertise:** Node.js, Express.js, FastAPI, and .NET for building RESTful services; API design, authentication and authorization, JWT/OAuth-based security, RBAC, database modeling, ORM-driven data access, caching with Redis, rate limiting, logging, monitoring, and asynchronous service patterns. Familiar with GraphQL, WebSockets, message queues, API documentation using OpenAPI/Swagger, automated testing, containerized deployments with Docker and Kubernetes, and CI/CD workflows.
 
 <img src="./assets/section-divider.svg" width="100%" alt="Section divider"/>
 
@@ -101,11 +106,7 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neonninja-9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89B4FA&icon_color=CBA6F7&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=neonninja-9&theme=tokyonight&hide_border=true&background=1e1e2e&ring=89B4FA&fire=CBA6F7&currStreakLabel=89B4FA" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neonninja-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2e&title_color=89B4FA&text_color=c9d1d9&langs_count=10" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=neonninja-9&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8" width="49%" />
+<img src="./assets/github-analytics.svg" width="100%" alt="GitHub analytics snapshot"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neonninja-9&theme=tokyo-night&bg_color=1e1e2e&color=89B4FA&line=CBA6F7&point=ffffff&hide_border=true&area=true" width="100%" />
 

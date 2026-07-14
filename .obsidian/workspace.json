@@ -182,6 +182,10 @@
   },
   "active": "2704407e72050356",
   "lastOpenFiles": [
+    "icons/resized/Kubernetes.svg",
+    "icons/Kubernetes.svg",
+    "assets/github-analytics.svg",
+    "assets/intro-banner.svg",
     "scripts/__pycache__/resize_icons.cpython-314.pyc",
     "scripts/__pycache__",
     "assets/profile-footer.svg",
@@ -194,9 +198,6 @@
     "icons/resized/Vercel-Dark.svg",
     "icons/resized/TailwindCSS-Dark.svg",
     "icons/resized/Supabase-Dark.svg",
-    "icons/resized/SQLite.svg",
-    "icons/resized/React-Dark.svg",
-    "icons/resized/PostgreSQL-Dark.svg",
     "icons/resized",
     "icons",
     "README.md"

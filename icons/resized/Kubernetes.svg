@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="48px" height="48px" viewBox="0 0 48 48" fill="none" role="img" aria-labelledby="title">
+  <ns0:title id="title">Kubernetes</ns0:title>
+  <ns0:path d="M24 3.5L41.75 13.75V34.25L24 44.5L6.25 34.25V13.75L24 3.5Z" fill="#326CE5" />
+  <ns0:path d="M24 7.8L38 15.9V32.1L24 40.2L10 32.1V15.9L24 7.8Z" fill="#326CE5" stroke="white" stroke-width="1.6" />
+  <ns0:circle cx="24" cy="24" r="5.4" fill="white" />
+  <ns0:circle cx="24" cy="24" r="2.4" fill="#326CE5" />
+  <ns0:path d="M24 10.8L25.35 20.8H22.65L24 10.8Z" fill="white" />
+  <ns0:path d="M24 37.2L22.65 27.2H25.35L24 37.2Z" fill="white" />
+  <ns0:path d="M37.2 24L27.2 25.35V22.65L37.2 24Z" fill="white" />
+  <ns0:path d="M10.8 24L20.8 22.65V25.35L10.8 24Z" fill="white" />
+  <ns0:path d="M33.35 14.65L27.2 22.65L25.3 20.75L33.35 14.65Z" fill="white" />
+  <ns0:path d="M14.65 33.35L20.8 25.35L22.7 27.25L14.65 33.35Z" fill="white" />
+  <ns0:path d="M33.35 33.35L25.3 27.25L27.2 25.35L33.35 33.35Z" fill="white" />
+  <ns0:path d="M14.65 14.65L22.7 20.75L20.8 22.65L14.65 14.65Z" fill="white" />
+</ns0:svg>
