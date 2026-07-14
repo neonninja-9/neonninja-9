@@ -61,14 +61,27 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 **Backend & APIs**
 <br/>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark&perline=4" alt="Backend frameworks: Node.js, Express, FastAPI, Django" title="Backend frameworks: Node.js, Express, FastAPI, Django"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="42" height="42" alt="Node.js" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="42" height="42" alt="Express.js" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="42" height="42" alt="FastAPI" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="42" height="42" alt="Django" title="Django"/>
 </p>
 
 **Backend Engineering**
 <br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=graphql,redis,rabbitmq,kafka,postman,nginx,prisma,sequelize,jest,prometheus,grafana&theme=dark&perline=11" alt="Backend engineering tools: GraphQL, Redis, RabbitMQ, Kafka, Postman, Nginx, Prisma, Sequelize, Jest, Prometheus, Grafana"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="42" height="42" alt="GraphQL" title="GraphQL"/>
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="42" height="42" alt="Redis" title="Redis"/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" width="42" height="42" alt="RabbitMQ" title="RabbitMQ"/>
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="42" height="42" alt="Kafka" title="Kafka"/>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="42" height="42" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="42" height="42" alt="Nginx" title="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="42" height="42" alt="Prisma" title="Prisma"/>
+  <img src="https://skillicons.dev/icons?i=sequelize&theme=dark" width="42" height="42" alt="Sequelize" title="Sequelize"/>
+  <img src="https://skillicons.dev/icons?i=jest&theme=dark" width="42" height="42" alt="Jest" title="Jest"/>
+  <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" width="42" height="42" alt="Prometheus" title="Prometheus"/>
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" width="42" height="42" alt="Grafana" title="Grafana"/>
+</p>
 <br/>
 `REST APIs` `Authentication` `Authorization` `JWT` `OAuth` `RBAC` `Database Design` `ORMs` `Caching` `Redis` `Message Queues` `GraphQL` `WebSockets` `OpenAPI/Swagger` `Testing` `Rate Limiting` `Logging` `Monitoring`
 
