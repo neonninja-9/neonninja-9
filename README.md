@@ -3,7 +3,7 @@
 <img src="./assets/profile-header.svg" width="100%" alt="Gourav Sharma profile header"/>
 
 <a href="https://gouravdev-zeta.vercel.app/">
-  <img src="./assets/intro-banner.svg" width="760" height="100" alt="Building real-world tech with social impact. C++, Python, JavaScript, System Design." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=89B4FA&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Building+real-world+tech+with+social+impact+%F0%9F%8C%8D;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+System+Design;Backend+APIs+%7C+Cloud+%7C+DevOps" alt="Typewriter animation" />
 </a>
 
 <br/>
@@ -69,6 +69,10 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 
 **Backend Engineering**
 <br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=graphql,redis,rabbitmq,kafka,postman,nginx,prisma,sequelize,jest,prometheus,grafana&theme=dark&perline=11" alt="Backend engineering tools: GraphQL, Redis, RabbitMQ, Kafka, Postman, Nginx, Prisma, Sequelize, Jest, Prometheus, Grafana"/>
+</a>
+<br/>
 `REST APIs` `Authentication` `Authorization` `JWT` `OAuth` `RBAC` `Database Design` `ORMs` `Caching` `Redis` `Message Queues` `GraphQL` `WebSockets` `OpenAPI/Swagger` `Testing` `Rate Limiting` `Logging` `Monitoring`
 
 **Data & Persistence**
@@ -87,7 +91,7 @@ Amity University Madhya Pradesh, Gwalior · Expected June 2028<br/>
 <p>
   <img src="./icons/resized/Git.svg" width="42" height="42" alt="Git" title="Git"/>
   <img src="./icons/resized/Docker.svg" width="42" height="42" alt="Docker" title="Docker"/>
-  <img src="./icons/resized/Kubernetes.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="42" height="42" alt="Kubernetes" title="Kubernetes"/>
   <img src="./icons/resized/AWS-Dark.svg" width="42" height="42" alt="AWS" title="AWS"/>
   <img src="./icons/resized/Vercel-Dark.svg" width="42" height="42" alt="Vercel" title="Vercel"/>
   <img src="./icons/resized/Heroku.svg" width="42" height="42" alt="Heroku" title="Heroku"/>
